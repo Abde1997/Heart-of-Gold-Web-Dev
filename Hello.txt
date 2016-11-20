@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-add some html in here please?
-=======
-add some html in here.
->>>>>>> origin/master
