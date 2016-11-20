@@ -1,11 +1,10 @@
-html {
-	background-color: black;
-	color: white;
+html{
+  background-color: gray;
 }
 
-h1 {
 
-	color: white;
-	background-color: black;
+.col-sm-4{
+
+  background-color: white;
+
 }
-
