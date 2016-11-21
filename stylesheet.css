@@ -7,10 +7,9 @@ img{
   opacity: 0.3;
 }
 
+
 nav {
   background-color: black;
-  color: black;
-  font-style: 40px;
   border-radius: 0 !important;
   padding: 0 !important;
    margin: 0 !important;
@@ -30,12 +29,15 @@ nav {
 }
 
 .image-text{
-  font-size: 5em;
+  font-size: 6em;
   position: relative;
   vertical-align: middle;
   top: 250px;
   background-color: black;
+  color: white;
+  font-family: Avenir,Arial;
 }
+
 
 .row-centered {
     text-align:center;
@@ -54,11 +56,3 @@ nav {
        padding: 0 !important;
    margin: 0 !important;
 }
-
-.giantPic{
-background-color: black;
-color: white;
-font-family: Avenir,Arial;
-   padding: 0 !important;
-   margin: 0 !important;
- }
