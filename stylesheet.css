@@ -30,6 +30,7 @@ nav {
 
 .image-text{
   font-size: 6em;
+  font-weight: 600;
   position: relative;
   vertical-align: middle;
   top: 250px;
@@ -51,7 +52,6 @@ nav {
     /* reset the text-align */
     text-align:left;
     /* inline-block space fix */
-    margin-right:-4px;
     background-color: black;
        padding: 0 !important;
    margin: 0 !important;
