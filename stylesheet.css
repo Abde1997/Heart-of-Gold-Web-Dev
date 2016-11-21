@@ -15,9 +15,9 @@ html{
     margin-right:-4px;
 }
 
-.col-sm-4{
+ .giantPic{
 
-  background-color: white;
- 
-  background-color: black;
+background-color: black;
+color: white;
+font-family: Avenir,Arial;
  }
