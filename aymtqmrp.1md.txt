@@ -1,0 +1,25 @@
+﻿Merge branch 'master' into Aaron-edit-1
+
+# Conflicts:
+#	index.html
+#	stylesheet.css
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch Aaron-edit-1
+# Your branch is behind 'origin/Aaron-edit-1' by 1 commit, and can be fast-forwarded.
+#   (use "git pull" to update your local branch)
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   index.html
+#	modified:   stylesheet.css
+#
+
