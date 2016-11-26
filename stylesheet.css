@@ -1,10 +1,50 @@
 html{
  
-  background-color: gray;
+  background-color: black;
 }
+
+img{
+  opacity: 0.4;
+}
+
+
+nav {
+  background-color: black;
+  border-radius: 0 !important;
+  padding: 0 !important;
+   margin: 0 !important;
+}
+
+.row-centered{
+  background-color: black;
+  padding: 0px;
+  margin: 0px;
+     padding: 0 !important;
+   margin: 0 !important;
+}
+
+.row{
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.image-text{
+  font-size: 6em;
+  font-weight: 600;
+  position: relative;
+  vertical-align: middle;
+  top: 250px;
+  background-color: black;
+  color: white;
+  font-family: Avenir,Arial;
+}
+
 
 .row-centered {
     text-align:center;
+    background-color: black;
+    padding: 0 !important;
+   margin: 0 !important;
 }
 .col-centered {
     display:inline-block;
@@ -12,12 +52,7 @@ html{
     /* reset the text-align */
     text-align:left;
     /* inline-block space fix */
-    margin-right:-4px;
+    background-color: black;
+       padding: 0 !important;
+   margin: 0 !important;
 }
-
- .giantPic{
-
-background-color: black;
-color: white;
-font-family: Avenir,Arial;
- }
