@@ -65,3 +65,9 @@ nav {
     text-align: left;
     color: white;
 }
+
+.projects {
+    background-color: #303030;
+    font-family: Avenir, Arial;
+    color: white;
+}
