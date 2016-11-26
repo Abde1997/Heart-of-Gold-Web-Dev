@@ -56,3 +56,14 @@ nav {
        padding: 0 !important;
    margin: 0 !important;
 }
+.body-text{
+	font-size: 2em; 
+	font-weight: 600;
+	position: relative;
+	text-align: center;
+	vertical-align: middle;
+	background-color: black;
+	color: white;
+	font-family: Avenir,Arial;
+	opacity: 0.6;	
+}
