@@ -55,3 +55,9 @@ nav {
        padding: 0 !important;
    margin: 0 !important;
 }
+
+
+.col-xs-4 {
+    height: 150px; 
+    background-color: green;
+}
