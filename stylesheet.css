@@ -4,7 +4,7 @@ html{
 }
 
 img{
-  opacity: 0.4;
+  opacity: 1;
 }
 
 
@@ -33,12 +33,23 @@ nav {
   font-weight: 600;
   position: relative;
   vertical-align: middle;
-  top: 250px;
-  background-color: black;
+  top: 150px;
+  background-color: transparent;
   color: white;
   font-family: Avenir,Arial;
 }
 
+.HomeButton {
+  text-align: center;
+  background: transparent;
+  font-weight: 600;
+  position: absolute;
+  vertical-align: middle;
+  top: 440px;
+  background-color: transparent: !important;
+  color: white;
+  font-family: Avenir,Arial;
+}
 
 .row-centered {
     text-align:center;
@@ -55,15 +66,4 @@ nav {
     background-color: black;
        padding: 0 !important;
    margin: 0 !important;
-}
-.body-text{
-	font-size: 2em; 
-	font-weight: 600;
-	position: relative;
-	text-align: center;
-	vertical-align: middle;
-	background-color: black;
-	color: white;
-	font-family: Avenir,Arial;
-	opacity: 0.6;	
 }
