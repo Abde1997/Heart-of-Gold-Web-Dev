@@ -3,7 +3,7 @@ html{
 }
 
 img{
-  opacity: 0.4;
+  opacity: 1;
 }
 
 
@@ -32,12 +32,23 @@ nav {
   font-weight: 600;
   position: relative;
   vertical-align: middle;
-  top: 250px;
-  background-color: black;
+  top: 150px;
+  background-color: transparent;
   color: white;
   font-family: Avenir,Arial;
 }
 
+.HomeButton {
+  text-align: center;
+  background: transparent;
+  font-weight: 600;
+  position: relative;
+  vertical-align: middle;
+  top: 0px;
+  background-color: transparent: !important;
+  color: white;
+  font-family: Avenir,Arial;
+}
 
 .row-centered {
     text-align:center;
@@ -52,6 +63,8 @@ nav {
     text-align: left;
     /* inline-block space fix */
     background-color: black;
+    padding: 0 !important;
+   	margin: 0 !important;
     padding: 0 !important;
     margin: 0 !important;
 }
@@ -70,4 +83,11 @@ nav {
     background-color: #303030;
     font-family: Avenir, Arial;
     color: white;
+}
+
+.row-bottom {
+	background-color: black;
+	color:white;
+	font-family: Avenir, Arial;
+	text-align:left; 
 }
