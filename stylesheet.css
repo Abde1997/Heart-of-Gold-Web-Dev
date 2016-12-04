@@ -42,9 +42,9 @@ nav {
   text-align: center;
   background: transparent;
   font-weight: 600;
-  position: absolute;
+  position: relative;
   vertical-align: middle;
-  top: 440px;
+  top: 0px;
   background-color: transparent: !important;
   color: white;
   font-family: Avenir,Arial;
@@ -63,10 +63,8 @@ nav {
     text-align: left;
     /* inline-block space fix */
     background-color: black;
-<<<<<<< HEAD
-       padding: 0 !important;
-   margin: 0 !important;
-=======
+    padding: 0 !important;
+   	margin: 0 !important;
     padding: 0 !important;
     margin: 0 !important;
 }
@@ -85,5 +83,11 @@ nav {
     background-color: #303030;
     font-family: Avenir, Arial;
     color: white;
->>>>>>> refs/remotes/origin/master
+}
+
+.row-bottom {
+	background-color: black;
+	color:white;
+	font-family: Avenir, Arial;
+	text-align:left; 
 }
