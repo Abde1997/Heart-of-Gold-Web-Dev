@@ -1,5 +1,4 @@
-html{
- 
+html{ 
   background-color: black;
 }
 
@@ -12,7 +11,7 @@ nav {
   background-color: black;
   border-radius: 0 !important;
   padding: 0 !important;
-   margin: 0 !important;
+  margin: 0 !important;
 }
 
 .row-centered{
@@ -58,12 +57,33 @@ nav {
    margin: 0 !important;
 }
 .col-centered {
-    display:inline-block;
-    float:none;
+    display: inline-block;
+    float: none;
     /* reset the text-align */
-    text-align:left;
+    text-align: left;
     /* inline-block space fix */
     background-color: black;
+<<<<<<< HEAD
        padding: 0 !important;
    margin: 0 !important;
+=======
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+
+.col-xs-4 {
+    height: 150px;
+    background-color: #191919;
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: left;
+    color: white;
+}
+
+.projects {
+    background-color: #303030;
+    font-family: Avenir, Arial;
+    color: white;
+>>>>>>> refs/remotes/origin/master
 }
